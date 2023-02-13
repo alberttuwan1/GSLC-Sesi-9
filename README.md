@@ -1,2 +1,3 @@
-# Sorry for the inconvenience
-# The Program is still in development
+# Quizizz Lite
+
+Try a lite version of quizizz
